@@ -2,8 +2,8 @@
     <dbname value="cool_weather" />
     <version value="1" />
     <list>
-        <mapping class="com.aigenisi.coolweather.android.db.Province" />
-        <mapping class="com.aigenisi.coolweather.android.db.City" />
-        <mapping class="com.aigenisi.coolweather.android.db.County" />
+        <mapping class="com.aigenisi.coolweather.db.Province" />
+        <mapping class="com.aigenisi.coolweather.db.City" />
+        <mapping class="com.aigenisi.coolweather.db.County" />
     </list>
 </litepal>

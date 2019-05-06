@@ -24,19 +24,19 @@ public class County extends DataSupport {
         this.countyName = countyName;
     }
 
-    public int getCityId() {
-        return cityId;
-    }
-
-    public void setCityId(int cityId) {
-        this.cityId = cityId;
-    }
-
     public String getWeatherId() {
         return weatherId;
     }
 
     public void setWeatherId(String weatherId) {
         this.weatherId = weatherId;
+    }
+
+    public int getCityId() {
+        return cityId;
+    }
+
+    public void setCityId(int cityId) {
+        this.cityId = cityId;
     }
 }
